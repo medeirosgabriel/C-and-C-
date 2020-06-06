@@ -1,5 +1,5 @@
-#ifndef VEHICLE_H_INCLUDED
-#define VEHICLE_H_INCLUDED
+#ifndef BASES_H_INCLUDED
+#define BASES_H_INCLUDED
 #include <iostream>
 
 using namespace std;
@@ -28,4 +28,4 @@ class CFB : public Base1, public Base2{
 
 };
 
-#endif // VEHICLE_H_INCLUDED
+#endif // BASES_H_INCLUDED
